@@ -1,2 +1,9 @@
-# CS461-Pathfinding
-A project assignment for Computer Games Programming to compute an optimal path primarily using A* Algorithm.
+# Pathfinding Algorithm
+
+**Term:** Junior Spring 2018  
+**Course:** CS461 - Computer Game Programming  
+**Date:** Apr - May 2018  
+**Tool:** Visual Studio  
+**Language:** C++  
+
+Implemented A* algorithm (along with attempt for BFS and Dijkstra’s) for pathfinding for 2D tile game.
